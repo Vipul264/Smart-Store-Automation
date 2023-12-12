@@ -1,0 +1,4 @@
+Product ID	Name	Price	Qty
+11330		bottle	20.0	4
+
+Total Amount: 80.00

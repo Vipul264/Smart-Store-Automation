@@ -1,0 +1,5 @@
+Product ID	Name	    Price	Qty
+11111		pen 	    10.0	1
+11222		textbook	50.0	2
+
+Total Amount: 110.00
